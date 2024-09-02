@@ -13,6 +13,7 @@
     "@chakra-ui/react": "^2.5.1",
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
+    "@langchain/langgraph": "^0.1.9",
     "framer-motion": "^9.0.4",
     "highlightjs-solidity": "^2.0.6",
     "mixpanel-browser": "^2.46.0",
@@ -27,7 +28,8 @@
     "react-textarea-autosize": "^8.4.0",
     "reactflow": "^11.7.0",
     "rehype-highlight": "^6.0.0",
-    "yield-stream": "^2.3.0"
+    "yield-stream": "^2.3.0",
+    "zustand": "^4.5.5"
   },
   "devDependencies": {
     "@types/mixpanel-browser": "^2.38.1",
