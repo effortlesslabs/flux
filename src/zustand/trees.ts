@@ -17,7 +17,7 @@ interface FluxNode {
   yAxis: string;
 }
 
-interface FluxTree {
+export interface FluxTree {
   id: number;
   name: string;
   xAxis: string;
